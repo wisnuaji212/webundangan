@@ -97,6 +97,7 @@ body {
   font-family: "Italianno";
   font-size: 5rem;
   font-weight: bold;
+  text-shadow: 7px 6px 5px grey;
 }
 
 .home h3 {
